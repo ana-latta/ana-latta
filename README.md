@@ -5,7 +5,7 @@
 - 🔭 Currently persuing a software engineering post-graduate degree
 - 🌱 Currently learning javascript and python
 
-💬 If you have any feedback or question, please let's chat, just [click here](https://www.linkedin.com/in/ana-latta-a06059185/) !
+💬 If you have any feedbacks or questions, please let's chat, just [click here](https://www.linkedin.com/in/ana-latta-a06059185/) !
 
 I'm currently developing a **finance manager app**, stay tuned !
 
