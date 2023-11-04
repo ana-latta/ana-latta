@@ -14,7 +14,7 @@ I'm currently developing a **finance manager app**, stay tuned !
 
   
 | Python  |  React Native |
-|---|---|
+|:---:|:---:|
 | Javascript  | PWA  |
 | OOP  | ASP .Net  |
 | Bootstrap  | MVC  |
