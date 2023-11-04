@@ -12,6 +12,7 @@ I'm currently developing a **finance manager app**, stay tuned !
 <h2 align ="center"> 💻 Languages and Frameworks 💻</h2>
 <h4 align ="center">
 <center>
+  
 | Python  |  React Native |
 |---|---|
 | Javascript  | PWA  |
