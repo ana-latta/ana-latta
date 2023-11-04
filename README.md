@@ -17,7 +17,9 @@ I'm currently developing a **finance manager app**, stay tuned !
 | Javascript  | PWA  |
 | OOP  | ASP .Net  |
 | Bootstrap  | MVC  |
-| Javascript  | Flask  |</h4>
+| Javascript  | Flask  |
+
+</h4>
 
 
 
