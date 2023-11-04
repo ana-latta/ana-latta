@@ -11,13 +11,8 @@ I'm currently developing a **finance manager app**, stay tuned !
 
 <h2 align ="center"> 💻 Languages and Frameworks 💻</h2>
 
-<table>
-  <tr>Python</tr>
-  <tr>React Native</tr>
-</table>
   
-
-| Python  |  React Native |
+| Python  | React Native  |  
 |:---:|:---:|
 | Javascript  | PWA  |
 | OOP  | ASP .Net  |
