@@ -10,16 +10,14 @@
 I'm currently developing a **finance manager app**, stay tuned !
 
 <h2 align ="center"> 💻 Languages and Frameworks 💻</h2>
+<table align = "center">
+| Python | React Native |
+| Javascript | PWA |
+| OOP | ASP .Net |
+| Bootstrap| MVC |
+| Javascript | Flask |
+|  Loading... | </table>
 
-  - Python <br>
-  - Javascript<br>
-  - OOP<br>
-  - Flask<br>
-  - Bootstrap<br>
-  - React Native<br>
-  - PWA<br>
-  - ASP .Net<br>
-  - MVC<br>
 
 
 
