@@ -18,7 +18,7 @@ I'm currently developing a **finance manager app**, stay tuned !
 | OOP  | ASP .Net  Core |
 | Bootstrap  | MVC  |
 | Javascript  | Flask  |
-| C#  | Loading....  |
+| C#  | SQL |
 
 
 
