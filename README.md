@@ -18,6 +18,8 @@ I'm currently developing a **finance manager app**, stay tuned !
   - Bootstrap<br>
   - React Native<br>
   - PWA<br>
+  - ASP .Net<br>
+  - MVC<br>
 
 
 
