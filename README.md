@@ -13,12 +13,12 @@ I'm currently developing a **finance manager app**, stay tuned !
 
 
   
-| Python  |  React Native |
+<center>| Python  |  React Native |
 |:---:|:---:|
 | Javascript  | PWA  |
 | OOP  | ASP .Net  |
 | Bootstrap  | MVC  |
-| Javascript  | Flask  |
+| Javascript  | Flask  |</center>
 
 
 
