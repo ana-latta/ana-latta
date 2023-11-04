@@ -10,7 +10,7 @@
 I'm currently developing a **finance manager app**, stay tuned !
 
 <h2 align ="center"> 💻 Languages and Frameworks 💻</h2>
-<h3> 
+
   - Python <br>
   - Javascript<br>
   - OOP<br>
@@ -19,9 +19,7 @@ I'm currently developing a **finance manager app**, stay tuned !
   - React Native<br>
   - PWA<br>
 
-</h3>
 
- - 
 
 <!--
 **ana-latta/ana-latta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
