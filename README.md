@@ -13,7 +13,8 @@ I'm currently developing a **finance manager app**, stay tuned !
 
 
   
-<center>| Python  |  React Native |
+<center>
+| Python  |  React Native |
 |:---:|:---:|
 | Javascript  | PWA  |
 | OOP  | ASP .Net  |
