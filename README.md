@@ -11,13 +11,13 @@ I'm currently developing a **finance manager app**, stay tuned !
 
 <h2 align ="center"> 💻 Languages and Frameworks 💻</h2>
 <h3> 
-  - Python
-  - Javascript
-  - OOP
-  - Flask
-  - Bootstrap
-  - React Native
-  - PWA
+  - Python <br>
+  - Javascript<br>
+  - OOP<br>
+  - Flask<br>
+  - Bootstrap<br>
+  - React Native<br>
+  - PWA<br>
 
 </h3>
 
